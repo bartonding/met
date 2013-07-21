@@ -1,0 +1,12 @@
+.met-task-wrap{
+    position: absolute;
+    z-index: 3;
+    top: 80px;
+    bottom: 0;
+    width: 100%;
+    background-color: rgba(255,0,0,0.1);
+}
+
+.met-task-toolbar{}
+
+.met-task-item{}
